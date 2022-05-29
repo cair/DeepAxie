@@ -2,7 +2,7 @@
 
 DeepAxie is a simplified version of the NFT-card-game Axie Infinity.
 
-Check the report `"DeepAxieQLearning.pdf"` for more details on this project.
+Check the report [here](https://github.com/cair/DeepAxie/blob/main/DeepAxieQLearning.pdf) for more details on this project.
 
 The following picture is how the environment looks when executing in python.
 ![](https://github.com/cair/DeepAxie/blob/main/environment.png)
@@ -10,7 +10,7 @@ The following picture is how the environment looks when executing in python.
 
 ## Reinforcement Learning using DQN
 
-To use the environment in python, check the file test.py.
+To use the environment in python, check the file [test.py](https://github.com/cair/DeepAxie/blob/main/test.py).
 
 ## To compile the library
 Compile lib on Mac (x86)
