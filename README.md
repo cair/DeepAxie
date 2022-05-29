@@ -1,9 +1,10 @@
 # DeepAxie v1.0
 
-DeepAxie is a simplified version of the NFT-card-game Axie Infinity
+DeepAxie is a simplified version of the NFT-card-game Axie Infinity.
 
-The following picture is how the environment looks when executing in 
-python.
+Check the report `"DeepAxieQLearning.pdf"` for more details on this project.
+
+The following picture is how the environment looks when executing in python.
 ![](https://github.com/cair/DeepAxie/blob/main/environment.png)
 
 
