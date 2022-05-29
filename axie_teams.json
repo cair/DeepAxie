@@ -1,0 +1,973 @@
+{
+	"Team-01": {
+		"Team-id": 1,
+		"Axie-01": {
+			"Axie-id": 1,
+			"Type": "plant",
+			"Health": 61,
+			"Speed": 31,
+			"Skill": 31,
+			"Morale": 41,
+			"Placement": "front",
+			"Cards": [{
+ 
+					"name": "serious",
+					"type": "plant",
+					"attack": 30 ,
+					"defence": 30
+				},
+ {
+					"name": "rose bud",
+					"type": "plant",
+					"attack": 0 ,
+					"defence": 50
+			}]
+		},
+		"Axie-02": {
+			"Axie-id": 2,
+			"Type": "plant",
+			"Health": 61,
+			"Speed": 31,
+			"Skill": 31,
+			"Morale": 41,
+			"Placement": "front",
+			"Cards": [{
+ 
+					"name": "serious",
+					"type": "plant",
+					"attack": 30 ,
+					"defence": 30
+				},
+ {
+					"name": "rose bud",
+					"type": "plant",
+					"attack": 0 ,
+					"defence": 50
+			}]
+		}
+	},
+	"Team-02": {
+		"Team-id": 2,
+		"Axie-01": {
+			"Axie-id": 3,
+			"Type": "plant",
+			"Health": 56,
+			"Speed": 33,
+			"Skill": 31,
+			"Morale": 44,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "goda",
+						"type": "beast",
+						"attack": 80,
+						"defence": 40
+					},
+					{
+						"name": "beech",
+						"type": "plant",
+						"attack": 105,
+						"defence": 40
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 4,
+			"Type": "aqua",
+			"Health": 44,
+			"Speed": 52,
+			"Skill": 35,
+			"Morale": 33,
+			"Placement": "back",
+			"Cards": [
+				{
+	 
+						"name": "piranha",
+						"type": "aqua",
+						"attack": 120,
+						"defence": 30
+					},
+					{
+						"name": "arco",
+						"type": "beast",
+						"attack": 100,
+						"defence": 50
+}]
+		}
+	},
+	"Team-03": {
+		"Team-id": 3,
+		"Axie-01": {
+			"Axie-id": 5,
+			"Type": "plant",
+			"Health": 56,
+			"Speed": 32,
+			"Skill": 31,
+			"Morale": 43,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "goda",
+						"type": "beast",
+						"attack": 80,
+						"defence": 40
+					},
+					{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 6,
+			"Type": "beast",
+			"Health": 35,
+			"Speed": 39,
+			"Skill": 31,
+			"Morale": 59,
+			"Placement": "back",
+			"Cards": [{
+ 
+					"name": "confident",
+					"type": "aqua",
+					"attack": 0,
+					"defence": 30
+				},
+				{
+					"name": "dual blade",
+					"type": "beast",
+					"attack": 130,
+					"defence": 20
+}]
+		}
+	},
+	"Team-04": {
+		"Team-id": 4,
+		"Axie-01": {
+			"Axie-id": 7,
+			"Type": "aqua",
+			"Health": 44,
+			"Speed": 52,
+			"Skill": 35,
+			"Morale": 33,
+			"Placement": "back",
+			"Cards": [
+				{
+	 
+						"name": "piranha",
+						"type": "aqua",
+						"attack": 120,
+						"defence": 30
+					},
+					{
+						"name": "arco",
+						"type": "beast",
+						"attack": 100,
+						"defence": 50
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 8,
+			"Type": "plant",
+			"Health": 56,
+			"Speed": 33,
+			"Skill": 31,
+			"Morale": 44,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "goda",
+						"type": "beast",
+						"attack": 80,
+						"defence": 40
+					},
+					{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+}]
+		}
+	},
+	"Team-05": {
+		"Team-id": 5,
+		"Axie-01": {
+			"Axie-id": 9,
+			"Type": "plant",
+			"Health": 55,
+			"Speed": 34,
+			"Skill": 31,
+			"Morale": 44,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "goda",
+						"type": "beast",
+						"attack": 80,
+						"defence": 40
+					},
+					{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 10,
+			"Type": "plant",
+			"Health": 55,
+			"Speed": 35,
+			"Skill": 31,
+			"Morale": 45,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "goda",
+						"type": "beast",
+						"attack": 80,
+						"defence": 40
+					},
+					{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+}]
+		}
+	},
+	"Team-06": {
+		"Team-id": 6,
+		"Axie-01": {
+			"Axie-id": 11,
+			"Type": "plant",
+			"Health": 56,
+			"Speed": 32,
+			"Skill": 31,
+			"Morale": 45,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "goda",
+						"type": "beast",
+						"attack": 80,
+						"defence": 40
+					},
+					{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 12,
+			"Type": "aqua",
+			"Health": 43,
+			"Speed": 52,
+			"Skill": 35,
+			"Morale": 34,
+			"Placement": "back",
+			"Cards": [
+				{
+	 
+						"name": "piranha",
+						"type": "aqua",
+						"attack": 120,
+						"defence": 30
+					},
+					{
+						"name": "arco",
+						"type": "beast",
+						"attack": 100,
+						"defence": 50
+}]
+		}
+	},
+	"Team-07": {
+		"Team-id": 7,
+		"Axie-01": {
+			"Axie-id": 13,
+			"Type": "plant",
+			"Health": 61,
+			"Speed": 31,
+			"Skill": 31,
+			"Morale": 41,
+			"Placement": "front",
+			"Cards": [{
+ 
+					"name": "zigzag",
+					"type": "plant",
+					"attack": 60,
+					"defence": 60
+				},
+				{
+					"name": "cactus",
+					"type": "plant",
+					"attack": 115,
+					"defence": 20
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 14,
+			"Type": "plant",
+			"Health": 56,
+			"Speed": 32,
+			"Skill": 31,
+			"Morale": 45,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "goda",
+						"type": "beast",
+						"attack": 80,
+						"defence": 40
+					},
+					{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+}]
+		}
+	},
+	"Team-08": {
+		"Team-id": 8,
+		"Axie-01": {
+			"Axie-id": 15,
+			"Type": "aqua",
+			"Health": 43,
+			"Speed": 53,
+			"Skill": 35,
+			"Morale": 33,
+			"Placement": "back",
+			"Cards": [
+				{
+	 
+						"name": "risky fish",
+						"type": "aqua",
+						"attack": 105,
+						"defence": 20
+					},
+					{
+						"name": "oranda",
+						"type": "aqua",
+						"attack": 120,
+						"defence": 30
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 16,
+			"Type": "plant",
+			"Health": 59,
+			"Speed": 31,
+			"Skill": 31,
+			"Morale": 43,
+			"Placement": "front",
+			"Cards": [{
+ 
+					"name": "zigzag",
+					"type": "plant",
+					"attack": 60,
+					"defence": 60
+				},
+				{
+					"name": "cactus",
+					"type": "plant",
+					"attack": 115,
+					"defence": 20
+}]
+		}
+	},
+	"Team-09": {
+		"Team-id": 9,
+		"Axie-01": {
+			"Axie-id": 17,
+			"Type": "plant",
+			"Health": 56,
+			"Speed": 32,
+			"Skill": 31,
+			"Morale": 45,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "goda",
+						"type": "beast",
+						"attack": 80,
+						"defence": 40
+					},
+					{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 18,
+			"Type": "plant",
+			"Health": 59,
+			"Speed": 31,
+			"Skill": 31,
+			"Morale": 43,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "zigzag",
+						"type": "plant",
+						"attack": 60,
+						"defence": 60
+					},
+					{
+						"name": "cactus",
+						"type": "plant",
+						"attack": 115,
+						"defence": 20
+}]
+		}
+	},
+	"Team-10": {
+		"Team-id": 10,
+		"Axie-01": {
+			"Axie-id": 19,
+			"Type": "beast",
+			"Health": 32,
+			"Speed": 40,
+			"Skill": 31,
+			"Morale": 61,
+			"Placement": "back",
+			"Cards": [{
+ 
+					"name": "confident",
+					"type": "aqua",
+					"attack": 0,
+					"defence": 30
+				},
+				{
+					"name": "dual blade",
+					"type": "beast",
+					"attack": 130,
+					"defence": 20
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 20,
+			"Type": "plant",
+			"Health": 58,
+			"Speed": 32,
+			"Skill": 31,
+			"Morale": 43,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "goda",
+						"type": "beast",
+						"attack": 80,
+						"defence": 40
+					},
+					{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+}]
+		}
+	},
+	"Team-11": {
+		"Team-id": 11,
+		"Axie-01": {
+			"Axie-id": 21,
+			"Type": "beast",
+			"Health": 31,
+			"Speed": 41,
+			"Skill": 31,
+			"Morale": 61,
+			"Placement": "back",
+			"Cards": [
+				{
+	 
+						"name": "goda",
+						"type": "beast",
+						"attack": 80,
+						"defence": 40
+					},
+					{
+						"name": "dual blade",
+						"type": "beast",
+						"attack": 130,
+						"defence": 20
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 22,
+			"Type": "plant",
+			"Health": 58,
+			"Speed": 32,
+			"Skill": 31,
+			"Morale": 43,
+			"Placement": "front",
+			"Cards": [{
+ 
+					"name": "herbivore",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+				},
+				{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+			}]
+		}
+	},
+	"Team-12": {
+		"Team-id": 12,
+		"Axie-01": {
+			"Axie-id": 23,
+			"Type": "aqua",
+			"Health": 45,
+			"Speed": 54,
+			"Skill": 35,
+			"Morale": 30,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "piranha",
+						"type": "aqua",
+						"attack": 120,
+						"defence": 30
+					},
+					{
+						"name": "shoal star",
+						"type": "aqua",
+						"attack": 110,
+						"defence": 10
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 24,
+			"Type": "aqua",
+			"Health": 44,
+			"Speed": 52,
+			"Skill": 35,
+			"Morale": 33,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "piranha",
+						"type": "aqua",
+						"attack": 120,
+						"defence": 30
+					},
+					{
+						"name": "arco",
+						"type": "beast",
+						"attack": 100,
+						"defence": 50
+}]
+		}
+	},
+	"Team-13": {
+		"Team-id": 13,
+		"Axie-01": {
+			"Axie-id": 25,
+			"Type": "plant",
+			"Health": 61,
+			"Speed": 31,
+			"Skill": 31,
+			"Morale": 41,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "serious",
+						"type": "plant",
+						"attack": 30,
+						"defence": 30
+					},
+					{
+					"name": "cactus",
+					"type": "plant",
+					"attack": 115,
+					"defence": 20
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 26,
+			"Type": "plant",
+			"Health": 61,
+			"Speed": 31,
+			"Skill": 31,
+			"Morale": 41,
+			"Placement": "front",
+			"Cards": [{
+ 
+					"name": "zigzag",
+					"type": "plant",
+					"attack": 60,
+					"defence": 60
+				},
+				{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+}]
+		}
+	},
+	"Team-14": {
+		"Team-id": 14,
+		"Axie-01": {
+			"Axie-id": 27,
+			"Type": "plant",
+			"Health": 56,
+			"Speed": 32,
+			"Skill": 31,
+			"Morale": 45,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "goda",
+						"type": "beast",
+						"attack": 80,
+						"defence": 40
+					},
+					{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 28,
+			"Type": "plant",
+			"Health": 53,
+			"Speed": 33,
+			"Skill": 31,
+			"Morale": 47,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "goda",
+						"type": "beast",
+						"attack": 80,
+						"defence": 40
+					},
+					{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+}]
+		}
+	},
+	"Team-15": {
+		"Team-id": 15,
+		"Axie-01": {
+			"Axie-id": 29,
+			"Type": "plant",
+			"Health": 61,
+			"Speed": 31,
+			"Skill": 31,
+			"Morale": 41,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "serious",
+						"type": "plant",
+						"attack": 30,
+						"defence": 30
+					},
+	 {
+						"name": "rose bud",
+						"type": "plant",
+						"attack": 0 ,
+						"defence": 50
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 30,
+			"Type": "plant",
+			"Health": 61,
+			"Speed": 31,
+			"Skill": 31,
+			"Morale": 41,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "serious",
+						"type": "plant",
+						"attack": 30,
+						"defence": 30
+					},
+					{
+						"name": "bamboo shoot",
+						"type": "plant",
+						"attack": 80,
+						"defence": 70
+}]
+		}
+	},
+	"Team-16": {
+		"Team-id": 16,
+		"Axie-01": {
+			"Axie-id": 31,
+			"Type": "plant",
+			"Health": 61,
+			"Speed": 31,
+			"Skill": 31,
+			"Morale": 41,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "zigzag",
+						"type": "plant",
+						"attack": 60,
+						"defence": 60
+					},
+					{
+						"name": "cactus",
+						"type": "plant",
+						"attack": 115,
+						"defence": 20
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 32,
+			"Type": "plant",
+			"Health": 59,
+			"Speed": 31,
+			"Skill": 31,
+			"Morale": 43,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "serious",
+						"type": "plant",
+						"attack": 30,
+						"defence": 30
+					},
+					{
+						"name": "cactus",
+						"type": "plant",
+						"attack": 115,
+						"defence": 20
+}]
+		}
+	},
+	"Team-17": {
+		"Team-id": 17,
+		"Axie-01": {
+			"Axie-id": 33,
+			"Type": "aqua",
+			"Health": 43,
+			"Speed": 52,
+			"Skill": 35,
+			"Morale": 34,
+			"Placement": "back",
+			"Cards": [
+				{
+	 
+						"name": "piranha",
+						"type": "aqua",
+						"attack": 120,
+						"defence": 30
+					},
+					{
+						"name": "arco",
+						"type": "beast",
+						"attack": 100,
+						"defence": 50
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 34,
+			"Type": "plant",
+			"Health": 56,
+			"Speed": 32,
+			"Skill": 31,
+			"Morale": 45,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "goda",
+						"type": "beast",
+						"attack": 80,
+						"defence": 40
+					},
+					{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+}]
+		}
+	},
+	"Team-18": {
+		"Team-id": 18,
+		"Axie-01": {
+			"Axie-id": 35,
+			"Type": "aqua",
+			"Health": 43,
+			"Speed": 52,
+			"Skill": 35,
+			"Morale": 34,
+			"Placement": "back",
+			"Cards": [{
+ 
+					"name": "risky fish",
+					"type": "aqua",
+					"attack": 105,
+					"defence": 20
+				},
+				{
+					"name": "arco",
+					"type": "beast",
+					"attack": 100,
+					"defence": 50
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 36,
+			"Type": "plant",
+			"Health": 59,
+			"Speed": 31,
+			"Skill": 31,
+			"Morale": 43,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "serious",
+						"type": "plant",
+						"attack": 30,
+						"defence": 30
+					},
+					{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+}]
+		}
+	},
+	"Team-19": {
+		"Team-id": 19,
+		"Axie-01": {
+			"Axie-id": 37,
+			"Type": "plant",
+			"Health": 59,
+			"Speed": 31,
+			"Skill": 31,
+			"Morale": 43,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "serious",
+						"type": "plant",
+						"attack": 30,
+						"defence": 30
+					},
+					{
+						"name": "beech",
+						"type": "plant",
+						"attack": 105,
+						"defence": 40
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 38,
+			"Type": "aqua",
+			"Health": 44,
+			"Speed": 52,
+			"Skill": 35,
+			"Morale": 33,
+			"Placement": "back",
+			"Cards": [
+				{
+	 
+						"name": "piranha",
+						"type": "aqua",
+						"attack": 120,
+						"defence": 30
+					},
+					{
+						"name": "arco",
+						"type": "beast",
+						"attack": 100,
+						"defence": 50
+}]
+		}
+	},
+	"Team-20": {
+		"Team-id": 20,
+		"Axie-01": {
+			"Axie-id": 39,
+			"Type": "plant",
+			"Health": 55,
+			"Speed": 34,
+			"Skill": 31,
+			"Morale": 44,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "goda",
+						"type": "beast",
+						"attack": 80,
+						"defence": 40
+					},
+					{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+}]
+		},
+		"Axie-02": {
+			"Axie-id": 40,
+			"Type": "plant",
+			"Health": 53,
+			"Speed": 35,
+			"Skill": 31,
+			"Morale": 45,
+			"Placement": "front",
+			"Cards": [
+				{
+	 
+						"name": "goda",
+						"type": "beast",
+						"attack": 80,
+						"defence": 40
+					},
+					{
+					"name": "beech",
+					"type": "plant",
+					"attack": 105,
+					"defence": 40
+}]
+		}
+	}
+}
