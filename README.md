@@ -4,7 +4,7 @@ DeepAxie is a simplified version of the NFT-card-game Axie Infinity
 
 The following picture is how the environment looks when executing in 
 python.
-![](https://codimd.s3.shivering-isles.com/demo/uploads/59939dd0-bb72-41f3-bf81-2021fdb98e78.png)
+![](https://github.com/cair/DeepAxie/blob/main/environment.png)
 
 
 ## Reinforcement Learning using DQN
